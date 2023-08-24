@@ -1,1 +1,1 @@
-# chatapp
+# Simple chatapp build using chat-gpt
