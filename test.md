@@ -1,10 +1,8 @@
 # Harsh Thakkar
-## Cloud Engineer
+Cloud Engineer
 
+📞 +91 9429504977 | ✉ harshthkr91@gmail.com | [GitHub](https://github.com/harshthkkr) | [LinkedIn](https://www.linkedin.com/in/harshthkkr/)
 
-📞 +91 9429504977 | ✉ harshthkr91@gmail.com | [GitHub](https://github.com/harshthkkr) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-
-📞 +91-9429504977 | ✉ harshthkkr91@gmail.com | [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [GitHub](https://github.com/yourgithub)
 ---
 
 
