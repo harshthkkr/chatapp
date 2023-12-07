@@ -1,8 +1,12 @@
 # Harsh Thakkar
 ## Cloud Engineer
-📞 +91-9429504977 | ✉ harshthkkr91@gmail.com |
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/harshthkkr) | [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/harshthkkr)
+
+
+📞 +91 9429504977 | ✉ harshthkr91@gmail.com | [GitHub](https://github.com/harshthkkr) | [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+
+📞 +91-9429504977 | ✉ harshthkkr91@gmail.com | [LinkedIn](https://www.linkedin.com/in/yourlinkedin) | [GitHub](https://github.com/yourgithub)
 ---
+
 
 ### Summary
 Data and cloud enthusiast with over 9 years of experience working with OLTP and OLAP systems, specializing in the development of resilient database designs and cloud infrastructure. Proficient in analytical data analysis and visualization to facilitate better operational and business decisions.
